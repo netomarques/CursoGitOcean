@@ -1,2 +1,4 @@
-Lucas dos Santos Garcia
-# CursoGitOcean
+#CursoGitOcean
+Danilo de Souza Miguel
+Esse curso mostra uma introdução ao git e ao GitHub
+
