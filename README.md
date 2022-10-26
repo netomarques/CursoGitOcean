@@ -1,3 +1,4 @@
 # CursoGitOcean
-Danilo de Souza Miguel
+
+Danilo
 Esse curso mostra uma introdução ao git e ao GitHub
