@@ -1,9 +1,3 @@
 
 #CursoGitOcean
-Danilo de Souza Miguel
-Esse curso mostra uma introdução ao git e ao GitHub
-
-JKHSAFJKHFAS
-JSAFBHJKONFDAS
-HBFSAJIBNFA
-
+https://colab.research.google.com/drive/1xouqgkzZfaybiunztl-MDYfrH-JHUB0O#scrollTo=qv18kBCfE6t4
